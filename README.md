@@ -296,13 +296,11 @@ Key governance controls include:
 ## Limitations
 
 - Home Credit `TARGET` is a competition payment-difficulty proxy, not a documented regulatory default definition.
-- The dataset does not provide a defensible calendar alignment between borrower observations and macroeconomic conditions.
 - Stress scenarios are transparent sensitivity tests, not Point-in-Time forecasts or historically calibrated recession models.
 - PSI is descriptive when a dated production monitoring population is unavailable.
 - Logistic coefficients and SHAP values describe model associations, not causal effects.
 - External evidence requires independent controls for source quality, licensing, retention, deduplication, and model evaluation.
 - Demo documents are synthetic and must never be presented as live risk evidence.
-- The AI EWS has not demonstrated incremental borrower-level predictive value and therefore remains outside calibrated PD.
 
 ## Responsible use
 
