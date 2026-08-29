@@ -127,7 +127,7 @@ Outputs include mean and median PD, P90/P95/P99 PD, absolute and relative uplift
 - explicit model assumptions, intended use, limitations, and model card.
 
 ## Repository structure
-```
+
 The project intentionally keeps the implementation in a single notebook.
 
 ## Getting started
